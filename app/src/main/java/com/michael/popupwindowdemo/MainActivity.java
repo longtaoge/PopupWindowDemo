@@ -149,7 +149,7 @@ public class MainActivity extends Activity
         mPopWindow.setOutsideTouchable(true);// 触摸popupwindow外部，popupwindow消失。这个要求你的popupwindow要有背景图片才可以成功，如上
         
         // mPopWindow.setAnimationStyle(R.style.popwin_anim_style);
-        mPopWindow.setAnimationStyle(R.style.popwin_anim_style);
+       // mPopWindow.setAnimationStyle(R.style.popwin_anim_style);
         
     }
     
